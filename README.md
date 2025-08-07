@@ -12,8 +12,11 @@
 ---
 
 ### 🛠️ Технологии и инструменты
-
+<a href="https://isocpp.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="C++" width="40" height="40"/>
+</a>
 <p align="left">
+  
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Bloc-3986F3?style=for-the-badge&logo=bloc&logoColor=white" />
