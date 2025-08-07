@@ -1,22 +1,19 @@
-<h1 align="center">Привет, я Мухаммадамин Рауфджонов 👋</h1>
-<h3 align="center">Junior Flutter Developer из Ташкента, Узбекистан</h3>
+<h1 align="center">Hi, I'm Muhammadamin Raufjonov 👋</h1>
+<h3 align="center">Junior Flutter Developer from Tashkent, Uzbekistan</h3>
 
 ---
 
-### 🧑‍💻 Обо мне
+### 🧑‍💻 About Me
 
-Я — Junior Flutter разработчик с опытом более 1.5 лет. Проходил стажировку и официально работал в **Smarts Software**, где принимал участие в разработке мобильных приложений для аренды автомобилей и интернет-магазина компьютерного оборудования.
+I'm a Junior Flutter Developer with over 1.5 years of experience. I completed an internship and worked officially at **Smarts Software**, where I contributed to developing mobile apps for car rental services and an e-commerce store for computer hardware.
 
-Активно работаю с **Dart/Flutter**, использую **Firebase**, **Supabase**, REST API, и работаю с базами данных **PostgreSQL**. Имею опыт в архитектурах **Provider**, **Bloc**, а также уверенно применяю ООП и MVVM.
+I actively work with **Dart/Flutter**, integrate **Firebase**, **Supabase**, REST APIs, and use **PostgreSQL** databases. I have experience with **Provider** and **Bloc** architectures, and confidently apply OOP and MVVM principles.
 
 ---
 
-### 🛠️ Технологии и инструменты
-<a href="https://isocpp.org/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="C++" width="40" height="40"/>
-</a>
-<p align="left">
-  
+### 🛠️ Technologies & Tools
+
+<p align="left">  
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Bloc-3986F3?style=for-the-badge&logo=bloc&logoColor=white" />
@@ -33,33 +30,34 @@
 
 ---
 
-### 📱 Мои проекты
+### 📱 My Projects
 
 #### 🚗 Travel Cars (User & Driver Apps)
-- Приложения для аренды автомобилей
-- Интеграция с Firebase, Supabase, PostgreSQL
-- Аутентификация, маршруты, уведомления, управление заказами
+- Mobile apps for car rental service
+- Integration with Firebase, Supabase, and PostgreSQL
+- Authentication, maps & routing, notifications, order management
 
-#### 🛒 Catalog (интернет-магазин)
-- MVP интернет-магазина
-- Система заказов, каталог товаров, авторизация
+#### 🛒 Catalog (E-commerce App)
+- MVP version of an online store
+- Product catalog, order system, authentication
 
 #### 🎬 MovieApp
-- Поиск и просмотр фильмов через TMDB API
+- Search and view movie details using TMDB API
 
 #### 🌦️ WeatherApp
-- Прогноз погоды с использованием OpenWeatherMap API
+- Displays weather forecasts using OpenWeatherMap API
 
 ---
 
-### 📫 Контакты
+### 📫 Contact Me
 
-- 📧 E-mail: [raufjonovmuhammadamin@gmail.com](mailto:raufjonovmuhammadamin@gmail.com)  
-- 📱 Телефон: +998 90 337 72 73  
+- 📧 Email: [raufjonovmuhammadamin@gmail.com](mailto:raufjonovmuhammadamin@gmail.com)  
+- 📱 Phone: +998 90 337 72 73  
 - 💬 Telegram: [@M1hammadam1n](https://t.me/M1hammadam1n)  
 - 💻 GitHub: [M1hammadam1n](https://github.com/M1hammadam1n)
 
 ---
 
-### 🚀 Цель
-Развиваться как Flutter-разработчик, участвовать в Open Source проектах и стать частью крутой команды 💙
+### 🚀 Goal
+
+To grow as a Flutter developer, contribute to Open Source projects, and become part of a great development team 💙
