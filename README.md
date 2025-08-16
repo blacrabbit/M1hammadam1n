@@ -63,7 +63,7 @@ I actively work with **Dart/Flutter**, integrate **Firebase**, **Supabase**, RES
 - Mobile apps for car rental service
 - Integration with Firebase, Supabase, and PostgreSQL
 - Authentication, maps & routing, notifications, order management
-
+- [Play Merket](https://play.google.com/store/apps/details?id=uz.smart.travelcardrivers&pcampaignid=web_share)
 #### 🛒 Catalog (E-commerce App)
 - MVP version of an online store
 - Product catalog, order system, authentication
