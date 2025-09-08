@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Muhammadamin Raufjonov 👋</h1>
-<h3 align="center">Junior Flutter Developer from Tashkent, Uzbekistan</h3>
+<h3 align="center"> Flutter Developer from Tashkent, Uzbekistan</h3>
 
 ---
 
 ### 🧑‍💻 About Me
 
-I'm a  Flutter Developer with over 1.5 years of experience. I completed an internship and worked officially at **Smarts Software**, where I contributed to developing mobile apps for car rental services and an e-commerce store for computer hardware.
+I'm a Flutter Developer with over 1.5 years of experience. I completed an internship and worked officially at **Smarts Software**, where I contributed to developing mobile apps for car rental services and an e-commerce store for computer hardware.
 
 I actively work with **Dart/Flutter**, integrate **Firebase**, **Supabase**, REST APIs, and use **PostgreSQL** databases. I have experience with **Provider** and **Bloc** architectures, and confidently apply OOP and MVVM principles.
 
