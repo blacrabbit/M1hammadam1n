@@ -21,10 +21,6 @@ I actively work with **Dart/Flutter**, integrate **Firebase**, **Supabase**, RES
 ![BLoC](https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Provider](https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### 🔄 State Management
-![BLoC](https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
 ### 🌐 Networking
 ![Dio](https://img.shields.io/badge/Dio-FF6F00?style=for-the-badge&logo=flutter&logoColor=white)
 ![HTTP](https://img.shields.io/badge/HTTP-005C84?style=for-the-badge&logo=http&logoColor=white)
