@@ -84,4 +84,4 @@ I actively work with **Dart/Flutter**, integrate **Firebase**, **Supabase**, RES
 
 ### 🚀 Goal
 
-To grow as a Flutter developer, contribute to Open Source projects, and become part of a great development team 💙
+To grow as a Mobile developer, contribute to projects, and become part of a great development team 💙
