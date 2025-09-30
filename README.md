@@ -75,7 +75,8 @@ I actively work with **Dart/Flutter**, integrate **Firebase**, **Supabase**, RES
 ### 📫 Contact Me
 
 - 📧 Email: [raufjonovmuhammadamin@gmail.com](mailto:raufjonovmuhammadamin@gmail.com)  
-- 📱 Phone: +998 90 337 72 73  
+- 📱 Phone: +998 90 337 72 73
+- 📱 Phone: +998 95 334 72 73  
 - 💬 Telegram: [@M1hammadam1n](https://t.me/M1hammadam1n)  
 - 💻 GitHub: [M1hammadam1n](https://github.com/M1hammadam1n)  
 - 🔗 LinkedIn: [Muhammadamin Raufjonov](https://www.linkedin.com/in/muhammadamin-raufjonov-843122326/)
