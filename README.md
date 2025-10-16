@@ -56,21 +56,47 @@ I actively work with **Dart/Flutter**, integrate **Firebase**, **Supabase**, RES
 ### 📱 My Projects
 
 #### 🚗 Travel Cars (User & Driver Apps)
-- Mobile apps for car rental service
-- Integration with Firebase, Supabase, and PostgreSQL
-- Authentication, maps & routing, notifications, order management
-- [Play Merket](https://play.google.com/store/apps/details?id=uz.smart.travelcardrivers&pcampaignid=web_share)
+
+* Mobile apps for car rental service
+* Integration with Firebase, Supabase, and PostgreSQL
+* Authentication, maps & routing, notifications, order management
+* [Play Market](https://play.google.com/store/apps/details?id=uz.smart.travelcardrivers&pcampaignid=web_share)
+
 #### 🛒 Catalog (E-commerce App)
-- MVP version of an online store
-- Product catalog, order system, authentication
+
+* MVP version of an online store
+* Product catalog, order system, authentication
+
+#### 🔒 Vegis VPN
+
+* VPN mobile app
+* Encryption and tunneling API integration
+* Connection management system
+* Custom UI design for user connection flow
+
+#### 🏔 AllPlaces
+
+* Tourism app for mountain hiking in Uzbekistan
+* Location database (mountains, rivers, lakes)
+* Expedition subscriptions and active trip management
+* Currently under active development
+
+#### 📚 Read_ai
+
+* Reading app for books and texts
+* Contributed to **business logic** and **UI design**
+* Focused on interactive reading experience and word translation features
 
 #### 🎬 MovieApp
-- Search and view movie details using TMDB API
+
+* Search and view movie details using TMDB API
 
 #### 🌦️ WeatherApp
-- Displays weather forecasts using OpenWeatherMap API
+
+* Displays weather forecasts using OpenWeatherMap API
 
 ---
+
 
 ### 📫 Contact Me
 
