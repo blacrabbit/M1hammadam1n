@@ -80,6 +80,7 @@ I actively work with **Dart/Flutter**, integrate **Firebase**, **Supabase**, RES
 * Location database (mountains, rivers, lakes)
 * Expedition subscriptions and active trip management
 * Currently under active development
+* [Play Market](https://play.google.com/store/apps/details?id=com.lxdan.locations&pcampaignid=web_share)
 
 #### 📚 Read_ai
 
